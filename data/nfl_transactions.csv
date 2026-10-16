@@ -1,0 +1,10 @@
+team,date,buyer,stake,implied_value_mm,trailing_revenue_mm,type,note
+Seattle Seahawks,2026,Khosla family group,1.00,9600,659,Control,"Record control purchase; Forbes cites 14.6x. Trailing = 2025-season revenue (Forbes Seahawks page)"
+Denver Broncos,2022,Walton-Penner,1.00,4650,526,Control,"Pre-PE benchmark. Trailing = 2021-season revenue (Forbes Broncos page); Forbes cites 8.8x"
+Washington Commanders,2023,Josh Harris group,1.00,6050,545,Control,"Trailing = 2022-season revenue (Forbes Commanders page)"
+New York Giants,Oct 2025,Julia Koch,0.10,10300,707,Minority,"CNBC: approved at $10.3bn. Trailing = 2024-season revenue (Forbes Giants page)"
+Atlanta Falcons,Aug 2025,Arctos (PE),0.10,10600,612,PE minority,"CNBC/Forbes: blended $10.6bn. Trailing = 2024-season revenue; outlier because 2025 revenue jumped to $805mm"
+Cleveland Browns,May 2025,Arctos (PE),0.03,9000,685,PE minority,"Sportico via Forbes: ~3% at $9bn. Trailing = 2024-season revenue (Forbes Browns page)"
+Las Vegas Raiders,Spring 2025,Egon Durban group,0.25,9900,779,Minority,"Forbes: 25% at $9.9bn. Trailing = 2024-season revenue (Forbes Raiders page)"
+Miami Dolphins,Mar 2025,Ares (PE),0.10,8100,656,PE minority,"Sportico: Ares 10% at $8.1bn. Trailing = 2024-season revenue (Forbes Dolphins page)"
+Buffalo Bills,2024,Arctos (PE),0.10,5800,552,PE minority,"Sportico: Arctos entered at $5.8bn. Trailing = 2023-season revenue (Forbes Bills page)"
